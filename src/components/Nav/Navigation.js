@@ -9,7 +9,7 @@ const Navigation = (props) => {
                 <img src={logo} height="60" className="logo" width="60" alt="logo"></img>
                 <a class="navbar-brand" href="/">
                     <h3>
-                        Sri Satya Surya Industries
+                        Satya Surya Sai Subrahmanya Industries
                     </h3>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
